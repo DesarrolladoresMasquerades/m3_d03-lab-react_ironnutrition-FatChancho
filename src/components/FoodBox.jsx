@@ -1,8 +1,5 @@
 import { Card, Col,  Button } from "antd";
 export default function FoodBox(props){
-    
-   
-
     return(
         <div>
             <Col>
